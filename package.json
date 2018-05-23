@@ -1,0 +1,25 @@
+{
+    "name": "ry-notification-center",
+    "version": "1.0.0",
+    "description": "Implement NotificationCenter design mode from Objective-C/Swift with typescript.",
+    "main": "ry-notification-center.ts",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/sudotamm/RYNotificationCenter.git"
+    },
+    "keywords": [
+        "NSNotificationCenter",
+        "Observer",
+        "Subject",
+        "EventEmit"
+    ],
+    "author": "Ryan",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/sudotamm/RYNotificationCenter/issues"
+    },
+    "homepage": "https://github.com/sudotamm/RYNotificationCenter#readme"
+}
